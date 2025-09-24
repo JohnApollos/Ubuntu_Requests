@@ -4,7 +4,7 @@
 
 A Python script that embodies the spirit of Ubuntu by mindfully connecting to the web community to fetch and organize images. This tool respects the connection by handling errors gracefully and provides a practical solution for collecting online resources.
 
-![A stylized image showing a Python logo with the Ubuntu logo in the background, surrounded by icons of folders and cloud computing.](https://i.imgur.com/k6lP0Wn.png)
+![A stylized image showing a Python logo with the Ubuntu logo in the background, surrounded by icons of folders and cloud computing.](https://images.pexels.com/photos/15561919/pexels-photo-15561919.jpeg)
 
 ---
 
